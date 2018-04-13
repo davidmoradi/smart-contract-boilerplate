@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/davidmoradi/smart-contract-boilerplate/issues"
   },
-  "homepage": "https://github.com/davidmoradi/smart-contract-boilerplate#readme"
+  "homepage": "https://github.com/davidmoradi/smart-contract-boilerplate#readme",
+  "dependencies": {
+    "solc": "^0.4.21"
+  }
 }
