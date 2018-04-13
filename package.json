@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Ethereum/Solidity Smart Contract BoilerPlate",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/davidmoradi/smart-contract-boilerplate.git"
@@ -15,6 +17,9 @@
   },
   "homepage": "https://github.com/davidmoradi/smart-contract-boilerplate#readme",
   "dependencies": {
-    "solc": "^0.4.21"
+    "ganache-cli": "^6.1.0",
+    "mocha": "^5.1.0",
+    "solc": "^0.4.21",
+    "web3": "^1.0.0-beta.33"
   }
 }
