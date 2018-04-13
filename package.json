@@ -1,0 +1,17 @@
+{
+  "name": "smart-contract-boilerplate",
+  "version": "1.0.0",
+  "description": "Ethereum/Solidity Smart Contract BoilerPlate",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davidmoradi/smart-contract-boilerplate.git"
+  },
+  "author": "David Moradi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmoradi/smart-contract-boilerplate/issues"
+  },
+  "homepage": "https://github.com/davidmoradi/smart-contract-boilerplate#readme"
+}
