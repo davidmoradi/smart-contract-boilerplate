@@ -14,7 +14,7 @@ Sign up for a free account on [https://infura.io/](https://infura.io/) to get an
 Replace `providerURL` and `mnemonic` constants in `deploy.js` file with yours.
 
 ```javascript
-const providerURL = "https://rinkeby.infura.io/..."; // replace with your Rinkeby	test network URL
+const providerURL = "https://rinkeby.infura.io/..."; // replace with your Rinkeby test network URL
 const mnemonic = "in crypto we trust ..."; // replace with your 12 word wallet mnemonic.
 ```
 
