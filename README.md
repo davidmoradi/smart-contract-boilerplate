@@ -1,5 +1,5 @@
-# smart-contract-boilerplate
-Ethereum / Solidity Smart Contract BoilerPlate
+Ethereum / Solidity Smart Contract BoilerPlate. Get started with smart contracts,
+and very easily test and deploy your contract.
 
 ## General Usage
 You can use this smart contract boilerplate to write and deploy smart contracts to Ethereum networks.
@@ -30,7 +30,7 @@ npm run tests
 
 Deploy your smart contract to Ethereum Rinkeby network:
 ```Bash
-node deploy.js
+npm run deploy
 ```
 
 Visit [https://www.rinkeby.io/#explorer](https://www.rinkeby.io/#explorer) to find your deployed

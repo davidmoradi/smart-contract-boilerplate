@@ -4,7 +4,8 @@
   "description": "Ethereum/Solidity Smart Contract BoilerPlate",
   "main": "index.js",
   "scripts": {
-    "tests": "mocha"
+    "tests": "mocha",
+    "deploy": "node ./deploy.js"
   },
   "repository": {
     "type": "git",
